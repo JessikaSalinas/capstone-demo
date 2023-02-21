@@ -1,6 +1,6 @@
 # E-Trivium
 
-Names:
+Names:   
 Hyrum Bailey   
 Jessika Jimenez   
 Rolando Quintana   
