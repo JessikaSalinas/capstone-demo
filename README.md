@@ -1,4 +1,7 @@
 # E-Trivium
 
 Names:
-Saoud Aldowaish
+Hyrum Bailey   
+Jessika Jimenez   
+Rolando Quintana   
+Saoud Aldowaish  
