@@ -1,6 +1,6 @@
 # E-Trivium
 
-Names:   
+Group Member Names:    
 Hyrum Bailey   
 Jessika Jimenez   
 Rolando Quintana   
