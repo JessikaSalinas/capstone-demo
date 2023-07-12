@@ -7,4 +7,4 @@ Group Meeting #:
 5 - 4/18/2023 - Prepared for "Prototype Demonstration" assignment, and began planning summer + fall goals and team member section assignments.  
 6 - 5/1/2023 - Prepared for "Final proposal document and presentation" assignment by finalizing plans for the presentation, the paper, and the website.  
 7 - 7/6/2023 - Discussed individual project statuses, planned project milestones for remainder of summer (FlutterFlow app, self-tying shoes, Arduino/sensors.   
-8 - ***   
+8 - ***     
