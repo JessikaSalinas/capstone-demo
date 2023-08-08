@@ -1,4 +1,4 @@
-# E-Trivium
+# capstone-demo
 
 Group Member Names:    
 Hyrum Bailey   
